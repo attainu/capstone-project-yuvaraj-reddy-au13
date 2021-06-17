@@ -1,0 +1,12 @@
+.card{
+    height: 90%;
+    width : auto;
+}
+
+.card-body{
+    margin:1rem;
+    padding:1rem;
+    max-width: fluid;
+    
+    
+}
